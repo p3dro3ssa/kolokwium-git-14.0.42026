@@ -17,3 +17,7 @@
 - git switch PK
 - git add imie_naziwsko.txt
 
+### Zadanie 3
+
+[alt tekst](1.png)
+[alt tekst](2.png)
